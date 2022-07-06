@@ -81,7 +81,7 @@ function Game() {
             resetTurn();
           } else {
             setTimeout(() => resetTurn(), 1000);
-            alert("you have lost try again")
+            alert("you have lost, try again")
           }
         }
       }, [choiceOne, choiceTwo])
