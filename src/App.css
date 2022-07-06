@@ -1,7 +1,5 @@
 
-body{
-  background-color:thistle;
-}
+
 .App {
   max-width: 860px;
   margin: 40px auto;
@@ -26,4 +24,10 @@ button:hover {
   display:grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap: 1px;
+}
+
+.welcome{
+  color: sandybrown;
+  text-align: center;
+  margin-top: 50vh;
 }
