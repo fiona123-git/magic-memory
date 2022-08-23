@@ -9,10 +9,10 @@ import Timer from './Timer';
 const cardImages= [
     {"src":"/img/shubham-dhage-kUptPYLCnbk-unsplash.jpg", matched: false},
     {"src": "/img/content-pixie-SHAXItPqwxo-unsplash.jpg",matched: false}, 
-    {"src":"/img/afif-kusuma-eTMtdh85TOk-unsplash.jpg", matched: false},
-    {"src":"/img/milad-fakurian-E8Ufcyxz514-unsplash.jpg", matched: false}, 
-    {"src":"/img/milad-fakurian-PGdW_bHDbpI-unsplash.jpg", matched: false},
-    {"src":"/img/shubham-dhage-R5A_YlcSJwA-unsplash.jpg", matched: false},               
+   // {"src":"/img/afif-kusuma-eTMtdh85TOk-unsplash.jpg", matched: false},
+   // {"src":"/img/milad-fakurian-E8Ufcyxz514-unsplash.jpg", matched: false}, 
+   // {"src":"/img/milad-fakurian-PGdW_bHDbpI-unsplash.jpg", matched: false},
+   // {"src":"/img/shubham-dhage-R5A_YlcSJwA-unsplash.jpg", matched: false},               
 
   //  each image is an object and the cards array are const would not need to change so it ok to create out
 
